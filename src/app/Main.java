@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Converter App.");
         System.out.println("App for measures converting");
         System.out.println("Version 1.0");
+        System.out.println("Go");
 
         double kgs = 5;
         double pnds = 12;
